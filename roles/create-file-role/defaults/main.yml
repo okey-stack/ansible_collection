@@ -1,0 +1,4 @@
+---
+# defaults file for create-file-role
+path: 'content_file.txt'
+content: Hello netology
